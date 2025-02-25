@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/7b57d32b-d2ce-4293-9e11-828c31702a40)
 # Analyzing-Crime-in-Los-Angeles
-# Los Angeles Crime Data Analysis
-
 **Los Angeles, California 😎**  
 The City of Angels. Tinseltown. The Entertainment Capital of the World!  
 
